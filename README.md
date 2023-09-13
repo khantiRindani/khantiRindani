@@ -11,4 +11,4 @@ You'll find me in hyper-excited state with new tech trends or as a least entropy
 - 🖍️ Java, Python, C, C++, Go, JS, React, Node | AWS, Hadoop Ecosystem, K8s, Kafka, Redis, Aerospike, SQL, Tableau
 
 ### Reach me 🏊
-I would love to meet you over [email](krindani@gmail.com) or [linkedin](https://www.linkedin.com/in/khantirindani925/)
+I would love to meet you over [email](mailto:krindani@gmail.com) or [linkedin](https://www.linkedin.com/in/khantirindani925/)
